@@ -1,0 +1,5 @@
+addpath('ArtifactsModel')
+addpath('SamplingPattern/Cartesian')
+addpath('SamplingPattern/Radial')
+addpath('SamplingPattern/Gaussian')
+addpath('TestData')
